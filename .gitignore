@@ -59,4 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# Book build output
 _book
+
+# eBook build output
+*.pdf
+*.mobi
+*.epub
